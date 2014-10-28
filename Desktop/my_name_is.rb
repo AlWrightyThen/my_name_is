@@ -1,0 +1,3 @@
+getName = "Darien Wright"
+
+getname

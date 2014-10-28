@@ -1,3 +1,1 @@
-getName = "Darien Wright"
-
-puts getname
+puts "Darien Wright"
